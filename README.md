@@ -8,6 +8,6 @@
 ##
 _falecomtelme@gmail.com | [LinkedIn](https://www.linkedin.com/in/telmee/)_
 
-** Reac | Redux | HTML | CSS | JavaScript | Docker | Banco de dados relacional (MySQL) | NodeJS | Express | Arquitetura de Software MSC | Rest | ORM Sequelize | JWT - Autenticação**
+**Reac | Redux | HTML | CSS | JavaScript | Docker | Banco de dados relacional (MySQL) | NodeJS | Express | Arquitetura de Software MSC | Rest | ORM Sequelize | JWT - Autenticação**
 
 ##
