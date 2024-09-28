@@ -7,6 +7,8 @@
 
 > Iniciei minha trajetória na tecnologia em 2021, acreditando que **educação, cuidado e comunidade precisam de fluência em tecnologia para encarar seus desafios**.
 
+> Hoje tenho 2+ anos de experiência como engenheiro de software backend, desenvolvendo aplicativos para serviços financeiros. Além de desenvolver um bom código, tenho uma ótima análise crítica para os produtos que estão sendo desenvolvidos, me atentando aos detalhes das regras de negócio e buscando dados que indicam possíveis pontos de melhoria.
+
 ##
 _falecomtelme@gmail.com | [LinkedIn](https://www.linkedin.com/in/telmee/)_
 
